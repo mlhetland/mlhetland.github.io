@@ -73,6 +73,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-compose
+  kramdown (>= 2.3.0)
   minima (~> 2.0)
   tzinfo-data
 
